@@ -146,7 +146,7 @@
 #ifndef FAN0_PIN
   #define FAN0_PIN                          PA14
 #endif
-#define FAN1_PIN                            PA13
+// #define FAN1_PIN                            PA13
 #define FAN2_PIN                            PA8
 
 //
